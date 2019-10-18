@@ -71,8 +71,8 @@
       "difficulty": 3,
       "topics": [
         "algorithms",
-        "control_flow_conditionals",
-        "control_flow_loops",
+        "conditionals",
+        "loops",
         "lists",
         "maps",
         "searching",
@@ -86,7 +86,7 @@
       "unlocked_by": null,
       "difficulty": 3,
       "topics": [
-        "control_flow_conditionals",
+        "conditionals",
         "pattern_recognition",
         "polymorphism",
         "regular_expressions",
@@ -102,7 +102,7 @@
       "difficulty": 4,
       "topics": [
         "arrays",
-        "control_flow_conditionals",
+        "conditionals",
         "control_flow_loops",
         "data_structures",
         "matrices",
